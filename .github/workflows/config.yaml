@@ -1,5 +1,5 @@
 name: 打包React项目
-on:push
+on: push
 
 permissions:
   contents: write
